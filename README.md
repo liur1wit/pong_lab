@@ -1,2 +1,2 @@
-# pong_lab2
-Data Science Lab 2
+# pong_lab
+Data Science Lab
