@@ -22,8 +22,8 @@ class Ball:
 
         px = self.x + self.vx
         py = self.y + self.vy
-        # TODO: Check if colliding.
-        ## Flip velocity/direction
+        
+        # Flip velocity/direction
         if px < (self.constants.BORDER + self.RADIUS):
             self.vx = -self.vx
         if py <(self.constants.BORDER + self.RADIUS):
