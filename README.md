@@ -9,6 +9,6 @@ Data Science Lab
 
 ![PongGif](https://user-images.githubusercontent.com/59747228/144959595-1876cb9e-b98f-417a-bffc-10cc88552e2c.gif)
 
-We train the model by using gaussiannb from sklearn.
-The average length of 3 games played by AI is about 5 seconds.
+We train the model by using gaussiannb from sklearn./n
+The average length of 3 games played by AI is about 5 seconds./n
 Name of team members: Rui Liu, Favian Liu, Danny Dang
